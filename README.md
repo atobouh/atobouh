@@ -1,8 +1,6 @@
 <div align="center">
-  <h2 align="center">Welcome to Ariel's Github</h2>
-  
   <a href="https://github.com/atobouh">
-    <img src="https://raw.githubusercontent.com/atobouh/atobouh/main/banner.svg" width="100%" />
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=500&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=120&lines=Welcome+to+Ariel's+GitHub;Cybersecurity+Student+%7C+Systems+Builder" alt="Welcome Banner" />
   </a>
 </div>
 
