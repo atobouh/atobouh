@@ -2,21 +2,32 @@
   <img src="https://raw.githubusercontent.com/atobouh/atobouh/main/banner.svg" width="100%" />
 </a>
 
-<!-- Dynamic Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f1a,100:1a1a2e&height=180&section=header&text=Ariel%20Atobouh&fontSize=40&animation=fadeIn&fontAlignY=32&desc=Systems%20Builder%20%7C%20Security%20Minded%20%7C%20Still%20Learning&descAlignY=55&descSize=14" width="100%" />
-</p>
+---
+
+<div align="center">
+  
+## Ariel Atobouh
+
+**[Systems Builder](/) · [Security-Minded](/) · [Always Learning](/)**
+
+---
+
+</div>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atobouh-ariel-1aa3b83b9)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/DevKuns43926)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atobouh)
+
+</div>
 
 ---
 
 ## About
 
 <p align="center">
-  <b>Systems Builder</b> &nbsp;·&nbsp; <b>Security-Minded</b> &nbsp;·&nbsp; <b>Still Learning</b>
-</p>
-
-<p align="center">
-  <code>Cybersecurity student</code> with a self-taught software background. I think structurally, build intensely, and value authenticity over performance.
+  Cybersecurity student with a self-taught software background. I think structurally, build intensely, and value authenticity over performance.
 </p>
 
 ---
@@ -27,7 +38,7 @@
 
 | | |
 |:---:|:---:|
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atobouh&layout=donut&theme=transparent&bg_color=0f0f1a&text_color=c0c0c0&border_color=3a3a5a&title_color=7b68ee" width="350" /> | <img src="https://github-readme-stats.vercel.app/api?username=atobouh&show_icons=true&theme=transparent&hide_border=true&count_private=true&bg_color=0f0f1a&text_color=c0c0c0&border_color=3a3a5a&title_color=7b68ee&icon_color=7b68ee" height="170" /> |
+| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=atobouh&layout=donut&theme=transparent&bg_color=0f0f1a&text_color=c0c0c0&border_color=3a3a5a&title_color=a855f7&ring_color=a855f7) | ![](https://github-readme-stats.vercel.app/api?username=atobouh&show_icons=true&theme=transparent&hide_border=true&count_private=true&bg_color=0f0f1a&text_color=c0c0c0&border_color=3a3a5a&title_color=a855f7&icon_color=a855f7) |
 
 </div>
 
@@ -36,113 +47,107 @@
 ## Tech Stack
 
 ### Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="50" />
-  <img src="https://skillicons.dev/icons?i=java&theme=dark" height="50" />
-  <img src="https://skillicons.dev/icons?i=javascript&theme=dark" height="50" />
-  <img src="https://skillicons.dev/icons?i=typescript&theme=dark" height="50" />
-  <img src="https://skillicons.dev/icons?i=c&theme=dark" height="50" />
-  <img src="https://skillicons.dev/icons?i=bash&theme=dark" height="50" />
-</p>
-
-### Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" height="50" />
-  <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" height="50" />
-  <img src="https://skillicons.dev/icons?i=html&theme=dark" height="50" />
-  <img src="https://skillicons.dev/icons?i=css&theme=dark" height="50" />
-  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" height="50" />
-</p>
-
-### Backend & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="50" />
-  <img src="https://skillicons.dev/icons?i=express&theme=dark" height="50" />
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" height="50" />
-  <img src="https://skillicons.dev/icons?i=docker&theme=dark" height="50" />
-  <img src="https://skillicons.dev/icons?i=linux&theme=dark" height="50" />
-  <img src="https://skillicons.dev/icons?i=kali&theme=dark" height="50" />
-</p>
-
-### IDEs
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="50" />
-  <img src="https://skillicons.dev/icons?i=pycharm&theme=dark" height="50" />
-  <img src="https://skillicons.dev/icons?i=idea&theme=dark" height="50" />
-  <img src="https://skillicons.dev/icons?i=vim&theme=dark" height="50" />
-</p>
-
----
-
-## Focus Areas
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Penetration_Testing-0f0f1a?style=flat&color=7b68ee&border=1px solid #7b68ee" />
-  <img src="https://img.shields.io/badge/-Network_Security-0f0f1a?style=flat&color=00d9ff&border=1px solid #00d9ff" />
-  <img src="https://img.shields.io/badge/-Linux-0f0f1a?style=flat&color=ff6b6b&border=1px solid #ff6b6b" />
-  <img src="https://img.shields.io/badge/-Reverse_Engineering-0f0f1a?style=flat&color=feca57&border=1px solid #feca57" />
-  <img src="https://img.shields.io/badge/-Open_Source-0f0f1a?style=flat&color=3fb950&border=1px solid #3fb950" />
-  <img src="https://img.shields.io/badge/-CTF-0f0f1a?style=flat&color=ff9ff3&border=1px solid #ff9ff3" />
-</p>
-
----
-
-## Connect
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/atobouh-ariel-1aa3b83b9" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&height=35" />
-</a>
-<a href="https://x.com/DevKuns43926" target="_blank">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&height=35" />
-</a>
-<a href="https://github.com/atobouh" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&height=35" />
-</a>
+![](https://skillicons.dev/icons?i=python&theme=dark)
+![](https://skillicons.dev/icons?i=java&theme=dark)
+![](https://skillicons.dev/icons?i=javascript&theme=dark)
+![](https://skillicons.dev/icons?i=typescript&theme=dark)
+![](https://skillicons.dev/icons?i=c&theme=dark)
+![](https://skillicons.dev/icons?i=bash&theme=dark)
+
+</div>
+
+### Frontend
+
+<div align="center">
+
+![](https://skillicons.dev/icons?i=react&theme=dark)
+![](https://skillicons.dev/icons?i=nextjs&theme=dark)
+![](https://skillicons.dev/icons?i=html&theme=dark)
+![](https://skillicons.dev/icons?i=css&theme=dark)
+![](https://skillicons.dev/icons?i=tailwind&theme=dark)
+
+</div>
+
+### Backend & Tools
+
+<div align="center">
+
+![](https://skillicons.dev/icons?i=nodejs&theme=dark)
+![](https://skillicons.dev/icons?i=express&theme=dark)
+![](https://skillicons.dev/icons?i=git&theme=dark)
+![](https://skillicons.dev/icons?i=docker&theme=dark)
+![](https://skillicons.dev/icons?i=linux&theme=dark)
+![](https://skillicons.dev/icons?i=kali&theme=dark)
+
+</div>
+
+### IDEs
+
+<div align="center">
+
+![](https://skillicons.dev/icons?i=vscode&theme=dark)
+![](https://skillicons.dev/icons?i=pycharm&theme=dark)
+![](https://skillicons.dev/icons?i=idea&theme=dark)
+![](https://skillicons.dev/icons?i=vim&theme=dark)
 
 </div>
 
 ---
 
-## Achievements
+## Focus
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=atobouh&theme=onedark&margin-w=8&margin-h=8&row=2&column=4&theme=dark&bg_color=0f0f1a&border_color=3a3a5a&title_color=7b68ee" width="100%" />
-</p>
+<div align="center">
+
+[![](https://img.shields.io/badge/-Penetration_Testing-0f0f1a?style=flat&color=a855f7&border=1px solid #a855f7)]()
+[![](https://img.shields.io/badge/-Network_Security-0f0f1a?style=flat&color=06b6d4&border=1px solid #06b6d4)]()
+[![](https://img.shields.io/badge/-Linux-0f0f1a?style=flat&color=ec4899&border=1px solid #ec4899)]()
+[![](https://img.shields.io/badge/-Reverse_Engineering-0f0f1a?style=flat&color=f59e0b&border=1px solid #f59e0b)]()
+[![](https://img.shields.io/badge/-Open_Source-0f0f1a?style=flat&color=22c55e&border=1px solid #22c55e)]()
+[![](https://img.shields.io/badge/-CTF-0f0f1a?style=flat&color=f472b6&border=1px solid #f472b6)]()
+
+</div>
 
 ---
 
-## Activity
+## GitHub Trophies
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atobouh&bg_color=0f0f1a&color=7b68ee&line=7b68ee&point=00d9ff&area=true&hide_border=true&theme=onedark" width="100%" />
-</p>
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=atobouh&theme=onedark&margin-w=8&margin-h=8&row=2&column=4&theme=dark&bg_color=0f0f1a&border_color=3a3a5a&title_color=a855f7&rank_color=a855f7)
+
+</div>
+
+---
+
+## Contribution Graph
+
+<div align="center">
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=atobouh&bg_color=0f0f1a&color=a855f7&line=a855f7&point=06b6d4&area=true&hide_border=true&theme=onedark)
+
+</div>
 
 ---
 
 ## Streak
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atobouh&background=0f0f1a&border=3a3a5a&title=7b68ee&text=c0c0c0&ring=7b68ee&fire=7b68ee&stroke=3a3a5a&currStreakNum=c0c0c0&sideNums=c0c0c0" width="100%" />
-</p>
+<div align="center">
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=atobouh&background=0f0f1a&border=3a3a5a&title=a855f7&text=c0c0c0&ring=a855f7&fire=a855f7&stroke=3a3a5a&currStreakNum=c0c0c0&sideNums=c0c0c0&sideLabels=c0c0c0&type=stats)
+
+</div>
 
 ---
 
 ## Status
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Open_to_Collaborate-0f0f1a?style=flat&color=3fb950&border=1px solid #3fb950" />
-  <img src="https://img.shields.io/badge/-Always_Learning-0f0f1a?style=flat&color=00d9ff&border=1px solid #00d9ff" />
-</p>
-
----
-
-## Metrics
-
 <div align="center">
 
-| <img src="https://komarev.com/ghpvc/?username=atobouh&label=Profile%20Views&color=7b68ee&style=flat-square" /> | <img src="https://img.shields.io/github/followers/atobouh?style=social&logo=github&label=Follow" /> |
+[![](https://img.shields.io/badge/-Open_to_Collaborate-0f0f1a?style=flat&color=22c55e&border=1px solid #22c55e)]()
+[![](https://img.shields.io/badge/-Always_Learning-0f0f1a?style=flat&color=06b6d4&border=1px solid #06b6d4)]()
 
 </div>
 
@@ -151,10 +156,18 @@
 <div align="center">
 
 ```
-+ Building slowly
-+ Learning honestly
-+ That's the move
+Building slowly
+Learning honestly
+That's the move
 ```
+
+</div>
+
+---
+
+<div align="center">
+
+[![](https://komarev.com/ghpvc/?username=atobouh&label=Profile%20Views&color=a855f7&style=flat-square)]()
 
 </div>
 
@@ -166,5 +179,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <div align="center">
-  <p style="color: #7b68ee; font-size: 12px;">Built in Malaysia</p>
+  <p style="color: #7c3aed; font-size: 11px;">Built with purpose in Malaysia</p>
 </div>
