@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+  <defs>
+    <linearGradient id="bg-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0a0f"/>
+      <stop offset="50%" style="stop-color:#1a1a2e"/>
+      <stop offset="100%" style="stop-color:#0a0a0f"/>
+    </linearGradient>
+    <linearGradient id="accent-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#7b68ee"/>
+      <stop offset="100%" style="stop-color:#00d9ff"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#7b68ee;stop-opacity:0.8"/>
+      <stop offset="100%" style="stop-color:#00d9ff;stop-opacity:0.3"/>
+    </linearGradient>
+    <filter id="glow-filter">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="blur-effect">
+      <feGaussianBlur stdDeviation="40"/>
+    </filter>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1200" height="320" fill="url(#bg-gradient)"/>
+  
+  <!-- Abstract shapes -->
+  <circle cx="200" cy="160" r="120" fill="url(#glow)" filter="url(#blur-effect)"/>
+  <circle cx="1000" cy="160" r="100" fill="#7b68ee" filter="url(#blur-effect)" opacity="0.3"/>
+  <circle cx="600" cy="80" r="60" fill="#00d9ff" filter="url(#blur-effect)" opacity="0.2"/>
+  
+  <!-- Grid pattern -->
+  <g stroke="#2a2a3e" stroke-width="0.5" opacity="0.3">
+    <line x1="0" y1="0" x2="1200" y2="320"/>
+    <line x1="0" y1="80" x2="1200" y2="400"/>
+    <line x1="0" y1="160" x2="1200" y2="480"/>
+    <line x1="0" y1="240" x2="1200" y2="560"/>
+    <line x1="0" y1="320" x2="1200" y2="640"/>
+    <line x1="0" y1="400" x2="1200" y2="720"/>
+    <line x1="0" y1="0" x2="1200" y2="0" transform="translate(0,320)"/>
+    <line x1="200" y1="0" x2="200" y2="320"/>
+    <line x1="400" y1="0" x2="400" y2="320"/>
+    <line x1="600" y1="0" x2="600" y2="320"/>
+    <line x1="800" y1="0" x2="800" y2="320"/>
+    <line x1="1000" y1="0" x2="1000" y2="320"/>
+    <line x1="1200" y1="0" x2="1200" y2="320"/>
+  </g>
+  
+  <!-- Hexagon pattern -->
+  <g fill="none" stroke="url(#accent-gradient)" stroke-width="1" opacity="0.15">
+    <polygon points="100,80 150,65 200,80 200,130 150,145 100,130"/>
+    <polygon points="300,180 350,165 400,180 400,230 350,245 300,230"/>
+    <polygon points="500,60 550,45 600,60 600,110 550,125 500,110"/>
+    <polygon points="700,200 750,185 800,200 800,250 750,265 700,250"/>
+    <polygon points="900,100 950,85 1000,100 1000,150 950,165 900,150"/>
+    <polygon points="1100,180 1150,165 1200,180 1200,230 1150,245 1100,230"/>
+  </g>
+  
+  <!-- Animated line -->
+  <path d="M0,200 Q300,150 600,200 T1200,200" stroke="url(#accent-gradient)" stroke-width="2" fill="none" filter="url(#glow-filter)" opacity="0.6"/>
+  
+  <!-- Code brackets decoration -->
+  <text x="50" y="100" fill="#7b68ee" font-family="monospace" font-size="60" opacity="0.1">&lt;/&gt;</text>
+  <text x="1100" y="250" fill="#00d9ff" font-family="monospace" font-size="50" opacity="0.1">#</text>
+  <text x="900" y="80" fill="#ff6b6b" font-family="monospace" font-size="40" opacity="0.1">_</text>
+  
+  <!-- Main accent bar -->
+  <rect x="350" y="140" width="500" height="40" rx="5" fill="url(#accent-gradient)" opacity="0.2"/>
+  <rect x="350" y="140" width="500" height="2" fill="url(#accent-gradient)"/>
+  
+  <!-- Glowing dot -->
+  <circle cx="350" cy="160" r="4" fill="#00d9ff" filter="url(#glow-filter)"/>
+  <circle cx="850" cy="160" r="4" fill="#7b68ee" filter="url(#glow-filter)"/>
+</svg>
