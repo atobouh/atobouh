@@ -41,22 +41,17 @@ I take systems apart to see what they assume about each other, then write down h
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/label-projects-dark.svg">
-  <img src="assets/label-projects-light.svg" width="100%" alt="Projects">
-</picture>
-
-<p align="center">
-  <a href="https://github.com/atobouh/pytobs"><img src="assets/case-pytobs.svg" width="49%" alt="pytobs: a quiet, fast Python editor for the terminal"></a>
-  <a href="https://github.com/atobouh/c-labs"><img src="assets/case-clabs.svg" width="49%" alt="C Labs: Machine Room, an offline studio for learning C"></a>
-</p>
-
-<br>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/status-dark.svg">
   <img src="assets/status-light.svg" width="100%" alt="Online. Latest public commit.">
 </picture>
 
 <br>
+
+<a href="https://atobs.me">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/door-dark.svg">
+  <img src="assets/door-light.svg" width="100%" alt="Portfolio: atobs.me. Email: arielatobs@gmail.com">
+</picture>
+</a>
 
 <p align="center"><sub>Built slowly, learned honestly.</sub></p>
