@@ -25,6 +25,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/commits-*.svg
-          git diff --cached --quiet || git commit -m "Refresh commits grid"
+          git add assets/commits-*.svg assets/status-*.svg
+          git diff --cached --quiet || git commit -m "Refresh commits grid and status bar"
           git push

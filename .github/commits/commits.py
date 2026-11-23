@@ -4,7 +4,7 @@ import json, os, re, urllib.request, datetime
 
 USER = os.environ.get('GH_USER', 'atobouh')
 HERE = os.path.dirname(os.path.abspath(__file__))
-OUT = os.environ.get('OUT_DIR', os.path.join(HERE, '..', 'assets'))
+OUT = os.environ.get('OUT_DIR', os.path.join(HERE, '..', '..', 'assets'))
 G = json.load(open(os.path.join(HERE, 'glyphs.json'), encoding='utf-8'))
 
 Q = '''query($u:String!){user(login:$u){repositories(privacy:PUBLIC,ownerAffiliations:OWNER){totalCount}
